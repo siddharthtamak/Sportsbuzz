@@ -1,2 +1,2 @@
 # Sportsbuzz
-Very basic html and css based sports news and updates website
+Very basic HTML and CSS based sports news and updates website
